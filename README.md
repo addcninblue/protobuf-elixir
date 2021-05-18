@@ -1,5 +1,7 @@
 # protobuf-elixir
 
+This is a mirror of [Zetaron](https://github.com/zetaron/protobuf-elixir)'s work.
+
 [![Hex.pm](https://img.shields.io/hexpm/v/protobuf.svg)](https://hex.pm/packages/protobuf)
 [![Build Status](https://travis-ci.org/tony612/protobuf-elixir.svg?branch=master)](https://travis-ci.org/tony612/protobuf-elixir)
 
